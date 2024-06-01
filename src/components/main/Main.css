@@ -1,0 +1,66 @@
+.container002 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.text11 {
+    color: #000;
+}
+
+.main_card_display {
+    display: flex;
+    padding: 10px 30px;
+    gap: 75px;
+}
+
+.ddfgnhn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.boxing_card_one {
+    width: 545px;
+    height: 228px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.boxing_card_one_text_rayit {
+    color: #000000;
+    width: 305px;
+    height: 39px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38.73px;
+    letter-spacing: -1px;
+    text-align: left;
+margin-top: -80px;
+}
+
+.boxing_card_one_sonni {
+    width: 108px;
+    height: 44px;
+    color: #000000;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    letter-spacing: -1px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.card_flex {
+    display: flex;
+    gap:70px;
+    padding: 100px 20px;
+}
+
+.brgneneenr {
+    color: #000;
+}
+
+.sghngbfvdsfbg{
+  margin-top: 500px;
+}

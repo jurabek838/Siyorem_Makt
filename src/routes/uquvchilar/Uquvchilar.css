@@ -1,0 +1,212 @@
+.red {
+    color: #000;
+}
+
+.well_container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.Bugungi {
+    color: #0061F7;
+    width: auto;
+    height: 44px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 48.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 10px 60px;
+    cursor: pointer;
+}
+
+.input_cards {
+    display: flex;
+    padding: 50px 70px;
+    gap: 20px;
+}
+
+.input_ceter_ucul {
+    width: 330px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 10px;
+    padding: 10px;
+    outline: none;
+}
+
+.input_cener_text_top {
+    width: auto;
+    height: 24px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.input_cener_text_top1 {
+    width: auto;
+    height: 24px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.arrov_input {
+    font-size: 28px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.arrov_input_border {
+    width: 37px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 0px 10px 10px 0px;
+    border-left: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.derdadd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_ceter_ucul01 {
+    width: 270px;
+    height: 48px;
+    border: 1px solid #2F49D199;
+    border-radius: 10px 0px 0px 10px;
+    padding: 10px;
+    border-right: none;
+    outline: none;
+
+}
+
+
+
+
+.input_cards_two {
+    display: flex;
+    padding: 10px 70px;
+    gap: 20px;
+
+}
+
+
+
+.file_input {
+    display: none;
+
+}
+
+.save {
+    font-size: 20px;
+    color: black;
+    margin-left: 200px;
+
+}
+
+.custom-file-upload {
+    width: 310px;
+    height: 48px;
+    display: inline-block;
+    padding: 14px 15px;
+    cursor: pointer;
+    background: transparent;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid #2F49D199;
+    color: gray;
+    display: flex;
+}
+
+
+.btn {
+    width: 314px;
+    height: 48px;
+    font-size: 16px;
+    color: white;
+    background: #2F49D1;
+    border-radius: 10px;
+    border: none;
+    transition: .5s;
+
+}
+
+.werfghjkl {
+    padding-top: 37px;
+}
+
+.btn:hover {
+    background-color: transparent;
+    border: 1px solid #2F49D1;
+    color: #2F49D1;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.uquvchilar_input_cards {
+    display: flex;
+    gap: 310px;
+    padding: 30px 0px;
+   
+}
+
+.inputgred {
+    width: 280px;
+    height: 48px;
+    border-radius: 0px 10px 10px 0px;
+    outline: none;
+    border-left: none;
+    
+}
+
+.input_search{
+    width: 48px;
+    height: 48px;
+    border: 2px solid rgb(136, 135, 135);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: none;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.weril{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+.search_icons{
+    color: #000;
+    font-size: 23px;
+    
+}
+
+.sdfghj{
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+
+
+.ertyuiuytre{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}

@@ -1,0 +1,101 @@
+.header {
+    width: 100%;
+    background-color: white;
+    color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 32px;
+}
+
+.header_left_content {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+
+.header_menu_icons {
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.header_title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    letter-spacing: 0.01em;
+}
+
+.header_data {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+    letter-spacing: 0.01em;
+}
+
+.header_right {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.header_right_content {
+    position: relative;
+
+}
+
+.header_language_value {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    letter-spacing: 1px;
+}
+
+.header_select_value {
+    padding: 8px;
+    background-color:dodgerblue;
+    display: none;
+    position: absolute;
+    top: 16px;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.header_right_content:hover .header_select_value {
+    display: block;
+}
+
+.header_right_content:hover .header_language_arrow_icons {
+    transform: rotateX(180deg);
+}
+
+.header_language_select_text {
+    color: white;
+    cursor: pointer;
+}
+
+.header_language_select_text:first-child {
+    margin-bottom: 5px;
+}
+
+.header_language_select_text:hover {
+    color: blue;
+}
+
+.dark_mood {
+    width: 40px;
+    height: 40px;
+    color: white;
+    font-size: 28px;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

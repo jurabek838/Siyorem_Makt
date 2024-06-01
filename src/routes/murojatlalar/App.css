@@ -1,0 +1,103 @@
+
+.Murojat_table_one_contentt {
+    max-width: 1180px;
+    margin: 0 auto;
+   
+}
+
+.Murojat_table_one{
+    padding: 30px 0px;
+}
+
+.Bugungi {
+    color: #0061F7;
+    width: auto;
+    height: 44px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 48.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 10px 60px;
+}
+
+.Bugungi_kun {
+    color: #0061F7;
+    width: auto;
+    height: 44px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 48.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 50px 60px;
+}
+
+.clear {
+    max-width: 1200px;
+}
+
+.iufiudbu {
+    max-width: 1200px;
+    height: 320px;
+    padding: 60px 30px;
+}
+
+.tabletik_bac {
+    background: #2F49D1;
+}
+
+.tgnmdgm {
+    color: white;
+}
+
+.fghjkl {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.tghtrhs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.table_trash_icon {
+    font-size: 20px;
+    color: red;
+}
+
+.Bugungi_two {
+    color: #0061F7;
+    width: auto;
+    height: 44px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 48.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 10px 60px;
+   
+}
+
+.murojat_table {
+    background-color: #0061F7;
+}
+
+.suouu {
+    color: white;
+}
+
+.namer_gang {
+    width: 100px;
+    font-size: 28px;
+}
+
+.table-cell-phone {
+    width: 180px;
+}
+
+.table-cell-name{
+    width: 250px;
+    font-size: 28px;    
+}

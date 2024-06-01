@@ -1,0 +1,14 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.kun {
+  color: white !important;
+
+}
+
+.tun {
+  color: black !important;
+}

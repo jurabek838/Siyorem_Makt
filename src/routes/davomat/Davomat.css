@@ -1,0 +1,27 @@
+.davomat_header_top_text {
+    color: #0061F7;
+    width: auto;
+    height: 44px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 48.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 10px 60px;
+    cursor: pointer;
+}
+
+
+.davomat_card_init {
+    display: flex;
+    gap: 90px;
+    padding: 30px 0px;
+
+}
+
+.sdfghjynt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
