@@ -1,21 +1,22 @@
 
-import "./Guruhlartwo.css"
+import "./Guruhlarfore.css"
 import arrubrot from "../../assets/images/unsplash_gutlccGLXKI.png"
+import brobaqaloq from "../../assets/images/unsplash_mjRwhvqEC0U.png"
 const Guruhlartwo = ({ language }) => {
   return (
-    <div className="eewr4tr55554">
+    <div className="fghttyuijuhgfhy">
 
 
 
       <div>
         <h2 className='Bugungi'>
-          {language === "UZ" ? "Informatika guruhi ro’yhati" : "Add new group"}</h2>
+          {language === "UZ" ? "Ona Tili  guruhi ro’yhati" : "Add new group"}</h2>
       </div>
 
       <div className="dfrtyuiuytrf"  >
         <div className="gang_flelter">
           <div className="guruhlar_cards_left">
-            <p className="tugri_chiziq">Informatika</p>
+            <p className="tugri_chiziq">Ona Tili</p>
             <div className="asdfghjk">
               <div>
                 <img className="keneshka" src={arrubrot} alt="" />

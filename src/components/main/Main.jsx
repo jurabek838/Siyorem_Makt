@@ -2,7 +2,7 @@ import "./Main.css";
 import { Route } from "react-router-dom";
 import icon_fantik from "../../assets/images/icon.png"
 
-const Main = ({  language }) => {
+const Main = ({ language }) => {
 
   return <div>
     <>
@@ -34,7 +34,9 @@ const Main = ({  language }) => {
                   </p>
                   <p className="boxing_card_one_sonni">10 ta</p>
                 </div>
-                <img src={icon_fantik} alt="" />
+                <div className="sghngbfvdsfbg">
+                  <img src={icon_fantik} alt="" />
+                </div>
               </div>
             </div>
 
@@ -72,7 +74,9 @@ const Main = ({  language }) => {
                     <p className="boxing_card_one_text_rayit">   {language === "UZ" ? "Jami guruhlar soni" : "Total number of "}</p>
                     <p className="boxing_card_one_sonni">26 ta</p>
                   </div>
-                  <img className="darja" src={icon_fantik} alt="" />
+                  <div className="sdfghjhgfd">
+                    <img className="darja" src={icon_fantik} alt="" />
+                  </div>
 
                 </div>
               </div>
