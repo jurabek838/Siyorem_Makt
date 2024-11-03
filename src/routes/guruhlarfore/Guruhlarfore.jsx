@@ -61,43 +61,43 @@ const Guruhlartwo = ({ language }) => {
             <th ><div className="sdfghj"> <div className="hretm"><p>№ </p><p> {language === "UZ" ? "O’quvchi ismi" : "Reader's name"} </p> </div><p className="dfgthyjkl">  {language === "UZ" ? "To’lov" : "tulovs"}  </p></div></th>
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>1</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>1</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>2</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>2</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>3</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>3</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>4</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>4</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>5</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>5</p><p>Farrux Sayfiddinov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>6</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>6</p><p>Aslbek Boyjanov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>7</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>7</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>8</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>8</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="drtyuiopoiu" ><p>9</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="drtyuiopoiu" ><p>9</p><p>Farrux Syfiddinov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
           <table className="trecalof_two" >
-            <th ><div className="ganghjdg" ><p>10</p><p>Muxamadaliyev Ibroxim</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
+            <th ><div className="ganghjdg" ><p>10</p><p>Jurabeek Nematov</p> <p>  <label className="checkbox-wrapper"> <input type="checkbox" className="checkbox_element" /> </label> </p> </div></th>
 
           </table>
         </div>

@@ -21,10 +21,10 @@ function createData(
 }
 
 const rows = [
-  createData('1', "Muxamadaliyev Ibroxim", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
-  createData('2', "Muxamadaliyev Ibroxim", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
-  createData('3', "Muxamadaliyev Ibroxim", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
-  createData('4', "Muxamadaliyev Ibroxim", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
+  createData('1', "Jurabeek Nematov", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
+  createData('2', "Jurabeek Nematov", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
+  createData('3', "Jurabeek Nematov", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
+  createData('4', "Aslbek Boyjanov", '+998900113861', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bibendum nascetur faucibus quam nunc mattis. Etiam ultrices vel nisl nisl nec sed. ', <CgTrashEmpty className="table_trash_icon" />),
 ];
 
 const Murojat_table_two = ({language}) => {

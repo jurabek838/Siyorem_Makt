@@ -5,7 +5,7 @@ import { IoSearch } from "react-icons/io5";
 import brobaqaloq from "../../assets/images/unsplash_mjRwhvqEC0U.png"
 import keneshka from "../../assets/images/unsplash_3TLl_97HNJo.png"
 import arrubrot from "../../assets/images/unsplash_gutlccGLXKI.png"
-import { Link } from "@mui/material";
+import { Link } from "react-router-dom";
 import Guruhlartwo from "../guruhlartwo/Guruhlartwo";
 import { Route } from "react-router-dom";
 const Guruhlar = ({ language, setValue, setValueEn }) => {
@@ -78,7 +78,8 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
 
 
           <div className="guruhlar_cards_left">
-            <p className="tugri_chiziq">Matemadika</p>
+          <Link className="tugri_chiziq" to="/Guruhlarthre">Matemadika</Link>
+          
             <div className="asdfghjk">
               <div>
                 <img src={brobaqaloq} alt="" />
@@ -111,8 +112,9 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
 
 
           <div className="guruhlar_cards_left">
-            <p className="tugri_chiziq">Ona tili</p>
-            <div className="asdfghjk">
+          <Link className="tugri_chiziq_wsad" to="/Guruhlarfore">Ona tili</Link>
+          
+            <div  className="asdfghjk">
               <div>
                 <img className="keneshka" src={keneshka} alt="" />
               </div>
@@ -143,7 +145,8 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
           </div>
 
           <div className="guruhlar_cards_left">
-            <p className="tugri_chiziq">Informatika</p>
+          <Link className="tugri_chiziq" to="/Guruhlartwo">Informatika</Link>
+          
             <div className="asdfghjk">
               <div>
                 <img className="keneshka" src={arrubrot} alt="" />
@@ -179,7 +182,7 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
 
 
           <div className="guruhlar_cards_left">
-            <p className="Huquq">HUQUQ</p>
+          <p className="Huquq" to="/Guruhlar">HUQUQ</p>
             <div className="asdfghjk">
               <div>
                 <img src={brobaqaloq} alt="" />

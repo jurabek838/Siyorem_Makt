@@ -31,7 +31,7 @@ const Header = ({ setSidebar, sidebar, setDarkmood, darkmood ,value, language, s
           {language === "UZ" ? "Xisobot" : "Education CRM"}
         </h2>
       </div>
-      <p className="header_data">6.01.2024</p>
+      <p className="header_data">20.11.2024</p>
       <div className="header_right">
         <div className="header_right_content">
           <p className="header_language_value">
