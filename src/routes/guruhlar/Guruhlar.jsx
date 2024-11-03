@@ -80,7 +80,7 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
           <div className="guruhlar_cards_left">
           <Link className="tugri_chiziq" to="/Guruhlarthre">Matemadika</Link>
           
-            <div className="asdfghjk">
+            <div className="asdfghjk1">
               <div>
                 <img src={brobaqaloq} alt="" />
               </div>
@@ -114,7 +114,7 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
           <div className="guruhlar_cards_left">
           <Link className="tugri_chiziq_wsad" to="/Guruhlarfore">Ona tili</Link>
           
-            <div  className="asdfghjk">
+            <div  className="asdfghjk1">
               <div>
                 <img className="keneshka" src={keneshka} alt="" />
               </div>
@@ -147,7 +147,7 @@ const Guruhlar = ({ language, setValue, setValueEn }) => {
           <div className="guruhlar_cards_left">
           <Link className="tugri_chiziq" to="/Guruhlartwo">Informatika</Link>
           
-            <div className="asdfghjk">
+            <div className="asdfghjk1">
               <div>
                 <img className="keneshka" src={arrubrot} alt="" />
               </div>
